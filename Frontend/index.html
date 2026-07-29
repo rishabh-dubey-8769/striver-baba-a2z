@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="night">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Optimised A-Z Sheet</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <!-- Sticky Top Navbar -->
+  <header class="top-navbar">
+    <div class="nav-brand-group">
+      <button class="icon-btn" id="homeBtn" title="Go to Home">
+        <span class="btn-icon">🏠</span> <span class="btn-text">Home</span>
+      </button>
+    </div>
+
+    <div class="search-wrapper">
+      <span class="search-icon">🔍</span>
+      <input type="text" id="searchInput" class="search-input" placeholder="Search Qn No., Title, Substring..." autocomplete="off" />
+      <button class="search-clear-btn" id="searchClearBtn" title="Clear Search">✕</button>
+    </div>
+
+    <div class="nav-controls-group">
+      <button class="icon-btn" id="themeBtn" title="Toggle Theme">
+        <span class="btn-icon">🌙</span> <span class="btn-text" id="themeLabel">Night</span>
+      </button>
+      <button class="icon-btn highlight-btn" id="randomBtn" title="Get Random Question">
+        <span class="btn-icon">🎲</span> <span class="btn-text">Random</span>
+      </button>
+    </div>
+  </header>
+
+  <!-- Animated Ambient Background Orbs for Night Theme -->
+  <div class="bg-orb orb-1"></div>
+  <div class="bg-orb orb-2"></div>
+  <div class="bg-orb orb-3"></div>
+
+  <!-- Hero Section -->
+  <div class="hero-container">
+    <h1 class="glowing-title">Optimised A-Z Sheet</h1>
+  </div>
+
+  <!-- Main Sheet Container -->
+  <main class="sheet-container" id="sheetContainer">
+    <!-- Dynamic content rendered by script.js -->
+  </main>
+
+  <script src="questions.js"></script>
+  <script src="script.js"></script>
+</body>
+</html>
