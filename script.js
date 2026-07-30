@@ -104,11 +104,15 @@ function createQuestionNode(qn) {
     <div class="solution-block ${isOpen ? 'visible' : ''}">
       <div class="solution-arrow">↓ Solution Details ↓</div>
       <div class="solution-images-list">
-        ${qn.solutionImages.map((imgUrl, idx) => `
-          <div class="solution-img-wrapper">
-            <img src="${imgUrl}" alt="Solution Step ${idx + 1}" class="solution-img" />
-          </div>
-        `).join('')}
+        ${qn.solutionImages.map((img, idx) => {
+          const imgSrc = typeof img === 'string' ? img : img.src;
+          const imgAlt = (typeof img === 'object' && img.alt) ? img.alt : `Solution Step ${idx + 1}`;
+          return `
+            <div class="solution-img-wrapper">
+              <img src="${imgSrc}" alt="${imgAlt}" class="solution-img" loading="lazy" />
+            </div>
+          `;
+        }).join('')}
       </div>
     </div>
   `;
