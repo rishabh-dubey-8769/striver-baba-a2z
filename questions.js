@@ -60,7 +60,7 @@ const sheetData = [
     // +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++     BINARY SEARCH    ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
   {
-    topicId: "binary search",
+    topicId: "binary-search",
     topicTitle: "Binary Search",
     questions: [
       {
@@ -132,7 +132,7 @@ const sheetData = [
     // +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++     Linked List    ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
   {
-    topicId: "Linked List",
+    topicId: "Linked-List",
     topicTitle: "Linked List",
     questions: [
       {
@@ -204,7 +204,7 @@ const sheetData = [
     // +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++     Bit Manipulation    ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
   {
-    topicId: "Bit Manipulation",
+    topicId: "Bit-Manipulation",
     topicTitle: "Bit Manipulation",
     questions: [
       {
@@ -240,7 +240,7 @@ const sheetData = [
     // +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++     Stacks & Queue    ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
   {
-    topicId: "Stacks & Queue",
+    topicId: "Stacks-&-Queue",
     topicTitle: "Stacks & Queue",
     questions: [
       {
@@ -276,7 +276,7 @@ const sheetData = [
     // +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++     Sliding Window & Two Pointers    ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
   {
-    topicId: "Sliding Window & Two Pointers",
+    topicId: "Sliding-Window-&-Two-Pointers",
     topicTitle: "Sliding Window & Two Pointers",
     questions: [
       {
@@ -310,6 +310,294 @@ const sheetData = [
     ]
   },
     // +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++     Heaps    ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+  {
+    topicId: "Heaps",
+    topicTitle: "Heaps",
+    questions: [
+      {
+        id: 1,
+        title: "Sort the String",
+        platform: "GFG",
+        platformUrl: "https://www.geeksforgeeks.org/",
+        solutionImages: [
+          {
+            src: "Questions/p51.png",
+            alt: "Solution :Sort the String"
+          }
+        ]
+      },
+      {
+        id: 2,
+        title: "Find no. of Vowels",
+        platform: "LeetCode",
+        platformUrl: "https://leetcode.com/",
+        solutionImages: [
+          {
+            src: "Questions/p51.1.png",
+            alt: "Solution :Find no. of Vowels"
+          },
+          {
+            src: "Questions/p51.png",
+            alt: "Solution :Find no. of Vowels"
+          }
+        ]
+      }
+    ]
+  },
+    // +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++     Greedy Algorithms    ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+  {
+    topicId: "Greedy-Algorithms",
+    topicTitle: "Greedy Algorithms",
+    questions: [
+      {
+        id: 1,
+        title: "Sort the String",
+        platform: "GFG",
+        platformUrl: "https://www.geeksforgeeks.org/",
+        solutionImages: [
+          {
+            src: "Questions/p51.png",
+            alt: "Solution :Sort the String"
+          }
+        ]
+      },
+      {
+        id: 2,
+        title: "Find no. of Vowels",
+        platform: "LeetCode",
+        platformUrl: "https://leetcode.com/",
+        solutionImages: [
+          {
+            src: "Questions/p51.1.png",
+            alt: "Solution :Find no. of Vowels"
+          },
+          {
+            src: "Questions/p51.png",
+            alt: "Solution :Find no. of Vowels"
+          }
+        ]
+      }
+    ]
+  },
+    // +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++     Binary Tree    ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+  {
+    topicId: "Binary-Tree",
+    topicTitle: "Binary Tree",
+    questions: [
+      {
+        id: 1,
+        title: "Sort the String",
+        platform: "GFG",
+        platformUrl: "https://www.geeksforgeeks.org/",
+        solutionImages: [
+          {
+            src: "Questions/p51.png",
+            alt: "Solution :Sort the String"
+          }
+        ]
+      },
+      {
+        id: 2,
+        title: "Find no. of Vowels",
+        platform: "LeetCode",
+        platformUrl: "https://leetcode.com/",
+        solutionImages: [
+          {
+            src: "Questions/p51.1.png",
+            alt: "Solution :Find no. of Vowels"
+          },
+          {
+            src: "Questions/p51.png",
+            alt: "Solution :Find no. of Vowels"
+          }
+        ]
+      }
+    ]
+  },
+    // +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++     Binary Search Tree    ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+  {
+    topicId: "Binary-Search-Tree",
+    topicTitle: "Binary-Search-Tree",
+    questions: [
+      {
+        id: 1,
+        title: "Sort the String",
+        platform: "GFG",
+        platformUrl: "https://www.geeksforgeeks.org/",
+        solutionImages: [
+          {
+            src: "Questions/p51.png",
+            alt: "Solution :Sort the String"
+          }
+        ]
+      },
+      {
+        id: 2,
+        title: "Find no. of Vowels",
+        platform: "LeetCode",
+        platformUrl: "https://leetcode.com/",
+        solutionImages: [
+          {
+            src: "Questions/p51.1.png",
+            alt: "Solution :Find no. of Vowels"
+          },
+          {
+            src: "Questions/p51.png",
+            alt: "Solution :Find no. of Vowels"
+          }
+        ]
+      }
+    ]
+  },
+    // +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++     Graph    ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+  {
+    topicId: "Graph",
+    topicTitle: "Graph",
+    questions: [
+      {
+        id: 1,
+        title: "Sort the String",
+        platform: "GFG",
+        platformUrl: "https://www.geeksforgeeks.org/",
+        solutionImages: [
+          {
+            src: "Questions/p51.png",
+            alt: "Solution :Sort the String"
+          }
+        ]
+      },
+      {
+        id: 2,
+        title: "Find no. of Vowels",
+        platform: "LeetCode",
+        platformUrl: "https://leetcode.com/",
+        solutionImages: [
+          {
+            src: "Questions/p51.1.png",
+            alt: "Solution :Find no. of Vowels"
+          },
+          {
+            src: "Questions/p51.png",
+            alt: "Solution :Find no. of Vowels"
+          }
+        ]
+      }
+    ]
+  },
+    // +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++     Dynamic Programming    ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+  {
+    topicId: "Dynamic Programming",
+    topicTitle: "Dynamic Programming",
+    questions: [
+      {
+        id: 1,
+        title: "Sort the String",
+        platform: "GFG",
+        platformUrl: "https://www.geeksforgeeks.org/",
+        solutionImages: [
+          {
+            src: "Questions/p51.png",
+            alt: "Solution :Sort the String"
+          }
+        ]
+      },
+      {
+        id: 2,
+        title: "Find no. of Vowels",
+        platform: "LeetCode",
+        platformUrl: "https://leetcode.com/",
+        solutionImages: [
+          {
+            src: "Questions/p51.1.png",
+            alt: "Solution :Find no. of Vowels"
+          },
+          {
+            src: "Questions/p51.png",
+            alt: "Solution :Find no. of Vowels"
+          }
+        ]
+      }
+    ]
+  },
+    // +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++     Tries    ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+  {
+    topicId: "Tries",
+    topicTitle: "Tries",
+    questions: [
+      {
+        id: 1,
+        title: "Sort the String",
+        platform: "GFG",
+        platformUrl: "https://www.geeksforgeeks.org/",
+        solutionImages: [
+          {
+            src: "Questions/p51.png",
+            alt: "Solution :Sort the String"
+          }
+        ]
+      },
+      {
+        id: 2,
+        title: "Find no. of Vowels",
+        platform: "LeetCode",
+        platformUrl: "https://leetcode.com/",
+        solutionImages: [
+          {
+            src: "Questions/p51.1.png",
+            alt: "Solution :Find no. of Vowels"
+          },
+          {
+            src: "Questions/p51.png",
+            alt: "Solution :Find no. of Vowels"
+          }
+        ]
+      }
+    ]
+  },
+    // +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++     Strings(Hard)    ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+  {
+    topicId: "Strings(Hard)",
+    topicTitle: "Strings (Hard)*",
+    questions: [
+      {
+        id: 1,
+        title: "Sort the String",
+        platform: "GFG",
+        platformUrl: "https://www.geeksforgeeks.org/",
+        solutionImages: [
+          {
+            src: "Questions/p51.png",
+            alt: "Solution :Sort the String"
+          }
+        ]
+      },
+      {
+        id: 2,
+        title: "Find no. of Vowels",
+        platform: "LeetCode",
+        platformUrl: "https://leetcode.com/",
+        solutionImages: [
+          {
+            src: "Questions/p51.1.png",
+            alt: "Solution :Find no. of Vowels"
+          },
+          {
+            src: "Questions/p51.png",
+            alt: "Solution :Find no. of Vowels"
+          }
+        ]
+      }
+    ]
+  },
+    // +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++     Next Topic    ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
 
 
 
