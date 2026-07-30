@@ -96,9 +96,15 @@ function createQuestionNode(qn) {
         <button class="eye-btn ${isOpen ? 'active' : ''}" title="Toggle Solution">
           ${isOpen ? openEyeSvg : closedEyeSvg}
         </button>
+
         <a href="${qn.platformUrl}" target="_blank" rel="noopener" class="platform-btn" title="Open on ${qn.platform}">
-          ${qn.platform === 'LeetCode' ? 'L' : 'G'}
+          <img 
+            src="${qn.platform === 'LeetCode' ? 'Leetcode_Logo.png' : 'GFG_Logo.png'}" 
+            alt="${qn.platform} Logo" 
+            class="platform-logo-img" 
+          />
         </a>
+        
       </div>
     </div>
     <div class="solution-block ${isOpen ? 'visible' : ''}">
