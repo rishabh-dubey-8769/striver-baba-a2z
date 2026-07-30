@@ -594,27 +594,14 @@ const sheetData = [
       },
 
       {
-        id: 32.1,
-        title: "Distance of nearest cell having 1",
-        platform: "GFG",
-        platformUrl: "https://www.geeksforgeeks.org/problems/distance-of-nearest-cell-having-1-1587115620/1",
-        solutionImages: [
-          {
-            src: "Questions/p32.1.png",
-            alt: "Solution :Number of Islands"
-          }
-        ]
-      },
-
-      {
-        id: 32.2,
-        title: "0-1 Matrix",
+        id: 32,
+        title: "Distance of nearest cell having 1 or (0-1) Matrix",
         platform: "LeetCode",
         platformUrl: "https://leetcode.com/problems/01-matrix/description/",
         solutionImages: [
           {
             src: "Questions/p32.1.png",
-            alt: "Solution :0-1 Matrix"
+            alt: "Solution : (0-1) Matrix"
           }
         ]
       },
