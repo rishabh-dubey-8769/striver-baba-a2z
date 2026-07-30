@@ -10,8 +10,8 @@ const sheetData = [
         platformUrl: "https://www.geeksforgeeks.org/",
         solutionImages: [
           {
-            src: "Questions/p1.png",
-            alt: "Solution for Question 1: Sort the String"
+            src: "Questions/p51.png",
+            alt: "Solution :Sort the String"
           }
         ]
       },
@@ -22,12 +22,12 @@ const sheetData = [
         platformUrl: "https://leetcode.com/",
         solutionImages: [
           {
-            src: "Questions/p2.1.png",
-            alt: "Solution Step 1 for Question 2: Find no. of Vowels"
+            src: "Questions/p51.1.png",
+            alt: "Solution :Find no. of Vowels"
           },
           {
-            src: "Questions/p2.2.png",
-            alt: "Solution Step 2 for Question 2: Find no. of Vowels"
+            src: "Questions/p51.png",
+            alt: "Solution :Find no. of Vowels"
           }
         ]
       }
@@ -44,8 +44,8 @@ const sheetData = [
         platformUrl: "https://www.geeksforgeeks.org/",
         solutionImages: [
           {
-            src: "Questions/p3.png",
-            alt: "Solution for Question 3: 3 Sum"
+            src: "Questions/p51.png",
+            alt: "Solution: 3 Sum"
           }
         ]
       }
