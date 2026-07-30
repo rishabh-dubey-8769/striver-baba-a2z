@@ -9,8 +9,10 @@ const sheetData = [
         platform: "GFG",
         platformUrl: "https://www.geeksforgeeks.org/",
         solutionImages: [
-          "https://via.placeholder.com/600x200/1e293b/00d2ff?text=Solution+Step+1:+Sort+the+String",
-          "https://via.placeholder.com/600x200/1e293b/92fe9d?text=Solution+Step+2:+Optimized+Time+Complexity"
+          {
+            src: "Questions/p1.png",
+            alt: "Solution for Question 1: Sort the String"
+          }
         ]
       },
       {
@@ -19,8 +21,14 @@ const sheetData = [
         platform: "LeetCode",
         platformUrl: "https://leetcode.com/",
         solutionImages: [
-          "https://via.placeholder.com/600x200/1e293b/00d2ff?text=Solution+Step+1:+Count+Vowels",
-          "https://via.placeholder.com/600x200/1e293b/ff7eb3?text=Solution+Step+2:+HashSet+Lookup"
+          {
+            src: "Questions/p2.1.png",
+            alt: "Solution Step 1 for Question 2: Find no. of Vowels"
+          },
+          {
+            src: "Questions/p2.2.png",
+            alt: "Solution Step 2 for Question 2: Find no. of Vowels"
+          }
         ]
       }
     ]
@@ -35,7 +43,10 @@ const sheetData = [
         platform: "GFG",
         platformUrl: "https://www.geeksforgeeks.org/",
         solutionImages: [
-          "https://via.placeholder.com/600x200/1e293b/00d2ff?text=Solution+Step+1:+Two+Pointer+Approach"
+          {
+            src: "Questions/p3.png",
+            alt: "Solution for Question 3: 3 Sum"
+          }
         ]
       }
     ]
