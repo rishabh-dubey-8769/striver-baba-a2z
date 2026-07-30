@@ -705,6 +705,163 @@ const sheetData = [
         ]
       },
 
+      {
+        id: 39,
+        title: "Topological Sorting(DFS)",
+        // platform: "LeetCode",
+        // platformUrl: "https://leetcode.com/problems/is-graph-bipartite/description/",
+        solutionImages: [
+          {
+            src: "Questions/p39.1.png",
+            alt: "Solution :Topological Sorting(DFS)"
+          }
+        ]
+      },
+
+      {
+        id: 40,
+        title: "Topological Sort",
+        platform: "GFG",
+        platformUrl: "https://www.geeksforgeeks.org/problems/topological-sort/1",
+        solutionImages: [
+          {
+            src: "Questions/p40.1.png",
+            alt: "Solution :Topological Sort"
+          }
+        ]
+      },
+
+      {
+        id: 41,
+        title: "Topological Sort(Kahn's Algo)",
+        platform: "GFG",
+        platformUrl: "https://www.geeksforgeeks.org/problems/topological-sort/1",
+        solutionImages: [
+          {
+            src: "Questions/p41.1.png",
+            alt: "Solution :Topological Sort"
+          }
+        ]
+      },
+
+      {
+        id: 42,
+        title: "Course Schedule",
+        platform: "LeetCode",
+        platformUrl: "https://leetcode.com/problems/course-schedule/description/",
+        solutionImages: [
+          {
+            src: "Questions/p42.1.png",
+            alt: "Solution :Course Schedule"
+          }
+        ]
+      },
+
+      {
+        id: 43,
+        title: "Course Schedule-II",
+        platform: "LeetCode",
+        platformUrl: "https://leetcode.com/problems/course-schedule-ii/",
+        solutionImages: [
+          {
+            src: "Questions/p43.1.png",
+            alt: "Solution :Course Schedule-II"
+          }
+        ]
+      },
+
+      {
+        id: 44,
+        title: "Find Eventual Safe States",
+        platform: "LeetCode",
+        platformUrl: "https://leetcode.com/problems/find-eventual-safe-states/",
+        solutionImages: [
+          {
+            src: "Questions/p44.1.png",
+            alt: "Solution :Find Eventual Safe States"
+          }
+        ]
+      },
+
+      {
+        id: 45,
+        title: "Alien Dictionary",
+        platform: "GFG",
+        platformUrl: "https://www.geeksforgeeks.org/problems/alien-dictionary/1",
+        solutionImages: [
+          {
+            src: "Questions/p45.1.png",
+            alt: "Solution :Alien Dictionary"
+          }
+        ]
+      },
+
+      {
+        id: 46,
+        title: "Shortest path in Directed Acyclic Graph",
+        platform: "GFG",
+        platformUrl: "https://www.geeksforgeeks.org/problems/shortest-path-in-directed-acyclic-graph/1",
+        solutionImages: [
+          {
+            src: "Questions/p46.1.png",
+            alt: "Solution :Shortest path in Directed Acyclic Graph"
+          }
+        ]
+      },
+
+      {
+        id: 47,
+        title: "Shortest Path in an Undirected Graph",
+        platform: "GFG",
+        platformUrl: "https://www.geeksforgeeks.org/problems/shortest-path-in-weighted-undirected-graph/1",
+        solutionImages: [
+          {
+            src: "Questions/p47.1.png",
+            alt: "Solution :Shortest Path in an Undirected Graph"
+          }
+        ]
+      },
+
+      {
+        id: 48,
+        title: "Bip**********jh)",
+        platform: "LeetCode",
+        platformUrl: "https://leetcode.com/problems/is-graph-bipartite/description/",
+        solutionImages: [
+          {
+            src: "Questions/p36.1.png",
+            alt: "Solution :Bipartite Graph"
+          }
+        ]
+      },
+
+      {
+        id: 49,
+        title: "Bi***********g)",
+        platform: "LeetCode",
+        platformUrl: "https://leetcode.com/problems/is-graph-bipartite/description/",
+        solutionImages: [
+          {
+            src: "Questions/p36.1.png",
+            alt: "Solution :Bipartite Graph"
+          }
+        ]
+      },
+
+      {
+        id: 50,
+        title: "Bip************g)",
+        platform: "LeetCode",
+        platformUrl: "https://leetcode.com/problems/is-graph-bipartite/description/",
+        solutionImages: [
+          {
+            src: "Questions/p36.1.png",
+            alt: "Solution :Bipartite Graph"
+          }
+        ]
+      },
+
+      
 
 
 
