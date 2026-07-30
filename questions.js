@@ -459,33 +459,256 @@ const sheetData = [
     topicTitle: "Graph",
     questions: [
       {
-        id: 1,
-        title: "Sort the String",
-        platform: "GFG",
-        platformUrl: "https://www.geeksforgeeks.org/",
+        id: 22,
+        title: "Introduction to Graph",
+        // platform: "GFG",
+        // platformUrl: "https://www.geeksforgeeks.org/",
         solutionImages: [
           {
-            src: "Questions/p51.png",
-            alt: "Solution :Sort the String"
+            src: "Questions/p22.1.png",
+            alt: "Solution :Introduction to Graph"
           }
         ]
       },
       {
-        id: 2,
-        title: "Find no. of Vowels",
-        platform: "LeetCode",
-        platformUrl: "https://leetcode.com/",
+        id: 23,
+        title: "Un-weighted Graph",
+        // platform: "GFG",
+        // platformUrl: "https://www.geeksforgeeks.org/",
         solutionImages: [
           {
-            src: "Questions/p51.1.png",
-            alt: "Solution :Find no. of Vowels"
-          },
-          {
-            src: "Questions/p51.png",
-            alt: "Solution :Find no. of Vowels"
+            src: "Questions/p23.1.png",
+            alt: "Solution :Un-weighted Graph"
           }
         ]
-      }
+      },
+      {
+        id: 24,
+        title: "Weighted Graph",
+        // platform: "GFG",
+        // platformUrl: "https://www.geeksforgeeks.org/",
+        solutionImages: [
+          {
+            src: "Questions/p24.1.png",
+            alt: "Solution :Weighted Graph"
+          }
+        ]
+      },  
+      {
+        id: 25,
+        title: "Connected Components",
+        // platform: "GFG",
+        // platformUrl: "https://www.geeksforgeeks.org/",
+        solutionImages: [
+          {
+            src: "Questions/p25.1.png",
+            alt: "Solution :Connected Components"
+          }
+        ]
+      },    
+      {
+        id: 26,
+        title: "Number of Islands(BFS)",
+        platform: "LeetCode",
+        platformUrl: "https://leetcode.com/problems/number-of-islands/description/",
+        solutionImages: [
+          {
+            src: "Questions/p26.1.png",
+            alt: "Solution :Number of Islands"
+          }
+        ]
+      },
+
+      {
+        id: 27,
+        title: "Number of Islands(DFS)",
+        platform: "LeetCode",
+        platformUrl: "https://leetcode.com/problems/number-of-islands/description/",
+        solutionImages: [
+          {
+            src: "Questions/p27.1.png",
+            alt: "Solution :Number of Islands"
+          }
+        ]
+      },
+      
+      {
+        id: 28,
+        title: "Number of Provinces",
+        platform: "LeetCode",
+        platformUrl: "https://leetcode.com/problems/number-of-provinces/description/",
+        solutionImages: [
+          {
+            src: "Questions/p28.1.png",
+            alt: "Solution :Number of Provinces"
+          }
+        ]
+      },
+
+      {
+        id: 29,
+        title: "Flood Fill Algorithm",
+        platform: "LeetCode",
+        platformUrl: "https://leetcode.com/problems/flood-fill/",
+        solutionImages: [
+          {
+            src: "Questions/p29.1.png",
+            alt: "Solution :Flood Fill Algorithm"
+          },
+          {
+            src: "Questions/p29.2.png",
+            alt: "Solution :Flood Fill Algorithm"
+          }          
+        ]
+      },
+
+      {
+        id: 30,
+        title: "Rotting Oranges",
+        platform: "LeetCode",
+        platformUrl: "https://leetcode.com/problems/rotting-oranges/",
+        solutionImages: [
+          {
+            src: "Questions/p30.1.png",
+            alt: "Solution :Rotting Oranges"
+          }
+        ]
+      },
+
+
+      {
+        id: 31,
+        title: "Detect Cycle in Un-Directed Graph",
+        platform: "GFG",
+        platformUrl: "https://www.geeksforgeeks.org/problems/detect-cycle-in-an-undirected-graph/1",
+        solutionImages: [
+          {
+            src: "Questions/p31.1.png",
+            alt: "Detect Cycle in Un-Directed Graph"
+          },
+          {
+            src: "Questions/p31.2.png",
+            alt: "Detect Cycle in Un-Directed Graph"
+          }          
+        ]
+      },
+
+      {
+        id: 32.1,
+        title: "Distance of nearest cell having 1",
+        platform: "GFG",
+        platformUrl: "https://www.geeksforgeeks.org/problems/distance-of-nearest-cell-having-1-1587115620/1",
+        solutionImages: [
+          {
+            src: "Questions/p32.1.png",
+            alt: "Solution :Number of Islands"
+          }
+        ]
+      },
+
+      {
+        id: 32.2,
+        title: "0-1 Matrix",
+        platform: "LeetCode",
+        platformUrl: "https://leetcode.com/problems/01-matrix/description/",
+        solutionImages: [
+          {
+            src: "Questions/p32.1.png",
+            alt: "Solution :0-1 Matrix"
+          }
+        ]
+      },
+
+      {
+        id: 33,
+        title: "Surrounded Regions",
+        platform: "LeetCode",
+        platformUrl: "https://leetcode.com/problems/surrounded-regions/",
+        solutionImages: [
+          {
+            src: "Questions/p33.1.png",
+            alt: "Solution :Surrounded Regions"
+          }
+        ]
+      },
+
+      {
+        id: 34,
+        title: "Number of Enclaves",
+        platform: "LeetCode",
+        platformUrl: "https://leetcode.com/problems/number-of-enclaves/",
+        solutionImages: [
+          {
+            src: "Questions/p34.1.png",
+            alt: "Solution :Number of Enclaves"
+          }
+        ]
+      },
+
+      {
+        id: 35,
+        title: "Number of Distinct Islands",
+        platform: "GFG",
+        platformUrl: "https://www.geeksforgeeks.org/problems/number-of-distinct-islands/1",
+        solutionImages: [
+          {
+            src: "Questions/p35.1.png",
+            alt: "Solution :Number of Distinct Islands"
+          },
+          {
+            src: "Questions/p35.2.png",
+            alt: "Solution :Number of Distinct Islands"
+          }          
+        ]
+      },
+
+      {
+        id: 36,
+        title: "Bipartite Graph(gfg)",
+        platform: "LeetCode",
+        platformUrl: "https://leetcode.com/problems/is-graph-bipartite/description/",
+        solutionImages: [
+          {
+            src: "Questions/p36.1.png",
+            alt: "Solution :Bipartite Graph"
+          }
+        ]
+      },
+
+      {
+        id: 37,
+        title: "Detect Cycle in Directed Graph",
+        platform: "GFG",
+        platformUrl: "https://www.geeksforgeeks.org/problems/detect-cycle-in-a-directed-graph/1",
+        solutionImages: [
+          {
+            src: "Questions/p37.1.png",
+            alt: "Solution :Detect Cycle in Directed Graph"
+          }
+        ]
+      },
+
+      {
+        id: 38,
+        title: "Find Eventual Safe States",
+        platform: "GFG",
+        platformUrl: "https://www.geeksforgeeks.org/problems/eventual-safe-states/1",
+        solutionImages: [
+          {
+            src: "Questions/p38.1.png",
+            alt: "Solution :Find Eventual Safe States"
+          },
+          {
+            src: "Questions/p38.2.png",
+            alt: "Solution :Find Eventual Safe States"
+          }          
+        ]
+      },
+
+
+
+
+       
     ]
   },
     // +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++     Dynamic Programming    ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
