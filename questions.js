@@ -800,7 +800,7 @@ const sheetData = [
         id: 47,
         title: "Shortest Path in an Undirected Graph",
         platform: "GFG",
-        platformUrl: "https://www.geeksforgeeks.org/problems/shortest-path-in-weighted-undirected-graph/1",
+        platformUrl: "https://www.geeksforgeeks.org/problems/shortest-path-in-undirected-graph-having-unit-distance/1",
         solutionImages: [
           {
             src: "Questions/p47.1.png",
